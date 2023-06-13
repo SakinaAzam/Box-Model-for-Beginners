@@ -1,0 +1,101 @@
+
+#box {
+  border-top:20px ;
+  border-right: 30px ;  
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid rgb(216, 98, 210);
+  margin: 20px;
+}
+#padding{
+    border: 50px solid palevioletred;
+    background-color: rgb(137, 194, 243);
+    padding: 50px;
+}
+#margin1{
+    background-color: aquamarine;
+    margin-bottom: 20px;
+}
+#margin2{
+    background-color:palevioletred;
+    width:200px;
+    height:200px;
+}
+#box1{
+    background-color:rgb(226, 101, 101);
+    width:200px;
+    height:200px;
+    
+}
+#box2{
+    background-color: rgb(110, 216, 110);
+    width:200px;
+    height:200px;
+    margin-left: 200px;
+
+}
+#box3{
+    background-color: rgb(99, 99, 192);
+    width:200px;
+    height:200px;
+    margin-left:400px ;
+}
+span.diss{
+    background-color: aquamarine;
+}
+span.miss{
+    background-color: antiquewhite;
+}
+hr{
+    border-style: dotted;
+
+}
+.relitive{
+    width:500px;
+    height: 500px;
+    background-color: rgb(100, 169, 172);
+    margin-right: 20px;
+
+}
+div.pos{
+    position: relative;
+    width:200px;
+    height: 200px;
+    background-color: rgb(12, 73, 77);
+    margin-left: 800px;
+}
+.id0{
+    height:700px;
+    width:700px;
+    background-color: hotpink;
+
+}
+.id1{
+    height:200px;
+    width:200px;
+    background-color: rgb(226, 59, 142);
+    margin:100px;
+
+}
+.id2{
+    position: absolute;
+    height:200px;
+    width:200px;
+    background-color: rgb(197, 21, 109);
+    margin: 100px;
+}
+.id3{
+    position: fixed;
+    height:200px;
+    width:200px;
+    background-color: rgb(161, 15, 88); 
+
+}
+.font{
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; 
+}
+
+
+
+
+
